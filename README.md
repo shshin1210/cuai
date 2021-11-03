@@ -66,7 +66,7 @@ Official Slide: http://bit.ly/2VrZcWM
 
 ### Index
 
-PART 1: Machine Learning & PyTorch Basic
+#### PART 1: Machine Learning & PyTorch Basic
 
 Lab-01-1 Tensor Manipulation 1
 
@@ -89,7 +89,7 @@ Lab-07-1 Tips
 Lab-07-2 MNIST Introduction
 
 
-PART 2: Neural Network
+#### PART 2: Neural Network
 
 Lab-08-1 Perceptron
 
@@ -104,14 +104,13 @@ Lab-09-3 Dropout
 Lab-09-4 Batch Normalization
 
 
-PART 3: Convolutional Neural Network
+#### PART 3: Convolutional Neural Network
 
 Lab-10-0 Convolution Neural Networkintro
 
 Lab-10-1 Convolution
 
 Lab-10-2 mnist cnn
-
 
 Lab-10-3 visdom
 
@@ -128,7 +127,7 @@ Lab-10-6-2 Advanced CNN(RESNET-2)
 Lab-10-7 Next step of CNN
 
 
-PART 4: Recurrent Neural Network
+#### PART 4: Recurrent Neural Network
 
 Lab-11-0 RNN intro
 
